@@ -1,0 +1,28 @@
+.portfolio_cover {
+    margin-top: 15em;
+    margin-bottom: 15em;
+    text-align: center;
+    /* width: 40em; */
+}
+
+.portfolio_skill_tiles {
+    height: 10em;
+    position: relative;
+}
+
+.portfolio_skill_tile div p {
+    font-size: 9px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+/* .box {
+    padding: 100px 0;
+    width: 400px;
+    text-align: center;
+    background-color: darkslategrey;
+    margin: 20px;
+    display: inline-block;
+} */
